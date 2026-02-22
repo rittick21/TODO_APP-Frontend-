@@ -1,0 +1,7 @@
+@use "features" as *;
+
+@media (max-width: 900px) {
+  .login {
+    padding: 0;
+  }
+}
